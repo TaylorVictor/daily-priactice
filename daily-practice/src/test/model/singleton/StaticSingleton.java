@@ -1,4 +1,4 @@
-package java.model;
+package test.model.singleton;
 
 /**
  * 单例模式
